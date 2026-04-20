@@ -1,9 +1,0 @@
-streamlit
-pandas
-openpyxl
-reportlab
-google-generativeai
-opencv-python-headless
-librosa
-numpy
-Pillow
