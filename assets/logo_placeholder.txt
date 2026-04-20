@@ -1,0 +1,11 @@
+# Logo placeholder para LCA_PRO
+# Reemplaza este archivo con tu logo real (PNG recomendado)
+# Dimensiones sugeridas: 200x80 píxeles
+# Ruta: assets/logo.png
+
+# Para usar un logo personalizado:
+# 1. Coloca tu archivo de logo en esta carpeta
+# 2. Asegúrate de que sea PNG con fondo transparente
+# 3. Actualiza config.ini si es necesario
+
+# Si no hay logo, la aplicación usará texto como branding
